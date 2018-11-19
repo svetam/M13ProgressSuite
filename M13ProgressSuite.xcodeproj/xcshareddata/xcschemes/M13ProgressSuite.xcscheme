@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0720"
+   LastUpgradeVersion = "1010"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FB2A7BDB1B793E5600FE4E4A"
                BuildableName = "M13ProgressSuite.framework"
-               BlueprintName = "M13ProgressSuiteFramework"
+               BlueprintName = "M13ProgressSuite"
                ReferencedContainer = "container:M13ProgressSuite.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,7 +47,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FB2A7BDB1B793E5600FE4E4A"
             BuildableName = "M13ProgressSuite.framework"
-            BlueprintName = "M13ProgressSuiteFramework"
+            BlueprintName = "M13ProgressSuite"
             ReferencedContainer = "container:M13ProgressSuite.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -65,7 +65,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FB2A7BDB1B793E5600FE4E4A"
             BuildableName = "M13ProgressSuite.framework"
-            BlueprintName = "M13ProgressSuiteFramework"
+            BlueprintName = "M13ProgressSuite"
             ReferencedContainer = "container:M13ProgressSuite.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
